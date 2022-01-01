@@ -1,0 +1,23 @@
+.header {
+    background-color: #c6dff5;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+
+.headerWrapper {
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header a {
+    padding: 0 20px;
+    color:#00008b;
+    text-decoration: none;
+}
+
+.header a:hover {
+    color:#06949a;
+}
